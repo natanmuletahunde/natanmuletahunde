@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Natan Muleta 👋
 
-<!--
-**natanmuletahunde/natanmuletahunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate content creator from Ethiopia, focused on design and development. I enjoy working with languages and frameworks like React, Vite, and Python, as well as designing in Figma.
 
-Here are some ideas to get you started:
+Currently, I'm pursuing my software engineering degree at Adama Science and Technology University (ASTU).
+## Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Vite
+- Python
+- Figma
+
+## Education and Certifications
+
+- Bachelor of Software Engineering, Adama Science and Technology University (ASTU)
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/natan-muleta-b11aa62b8/)
+[Gmail](natanmuleta911@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmuletahunde)](https://github.com/natanmuletahunde/github-readme-stats)
+
