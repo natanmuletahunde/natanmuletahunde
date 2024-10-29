@@ -4,7 +4,7 @@ I'm a passionate content creator from Ethiopia, focused on design and developmen
 
 Currently, I'm pursuing my software engineering degree at Adama Science and Technology University (ASTU).
 ## Skills and Technologies
-
+-Laravel
 - React
 - Vite
 - Python
