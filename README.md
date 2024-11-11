@@ -18,7 +18,9 @@ Currently, I'm pursuing my software engineering degree at Adama Science and Tech
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/natan-muleta-b11aa62b8/)
+
 [Gmail](natanmuleta911@gmail.com)
+
 https://x.com/muleta28605
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natanmuletahunde)](https://github.com/natanmuletahunde/github-readme-stats)
