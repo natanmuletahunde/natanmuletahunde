@@ -10,6 +10,7 @@ Currently, I'm pursuing my software engineering degree at Adama Science and Tech
 - Python
 - Figma
 - Laravel
+- Flutter
 
 ## Education and Certifications
 
