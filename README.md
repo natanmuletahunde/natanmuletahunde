@@ -1,12 +1,11 @@
 # Hi there, I'm Natan Muleta 👋
 
-I'm a passionate content creator from Ethiopia, focused on design and development. I enjoy working with languages and frameworks like React, Vite, and Python, as well as designing in Figma.
+I'm a passionate content creator from Ethiopia, focused on design and development. I enjoy working with languages and frameworks like React vite, and Laravel, as well as designing in Figma.
 
 Currently, I'm pursuing my software engineering degree at Adama Science and Technology University (ASTU).
 ## Skills and Technologies
 
 - React(vite)
-- Python
 - Figma
 - Laravel
 - Flutter
