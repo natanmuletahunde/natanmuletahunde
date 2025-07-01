@@ -18,9 +18,9 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's up?
+<h1 align="center">Hey 👋 What's up?</h1>h1
 
-I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia, studying at Adama Science and Technology University (ASTU). I love building innovative web and mobile apps with MERN, Flutter, and Next.js, while exploring the exciting world of Machine Learning. My goal is to create impactful, user-focused solutions that blend creativity and technology</h1>
+I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia, studying at Adama Science and Technology University (ASTU). I love building innovative web and mobile apps with MERN, Flutter, and Next.js, while exploring the exciting world of Machine Learning. My goal is to create impactful, user-focused solutions that blend creativity and technology
 
 ###
 
