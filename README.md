@@ -23,13 +23,35 @@
 I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia, studying at Adama Science and Technology University (ASTU). I love building innovative web and mobile apps with MERN, Flutter, and Next.js, while exploring the exciting world of Machine Learning. My goal is to create impactful, user-focused solutions that blend creativity and technology
 
 ###
+About Me
 
-<h3 align="left">About Me</h3>
+
+
+
+
+🔭 I'm working as a student developer, building projects with MERN and Flutter
+
+
+
+📚 I'm currently learning Machine Learning with TensorFlow and advanced Next.js
+
+
+
+⚡ In my free time, I hit the gym to stay fit and sketch app designs in Figma
+
+
 
 ✨ Creating bugs since 2022 (and squashing them too!)
-📚 Currently learning: Advanced Next.js, Machine Learning with TensorFlow, and Flutter animations
+
+
+
 🎯 Goals: Build AI-powered apps, contribute to open-source, and design intuitive interfaces
-🎲 Fun fact: I sketch app designs in Figma while sipping Ethiopian coffee ☕
+
+
+
+🎲 Fun fact: I design sleek UIs while sipping Ethiopian coffee ☕
+
+
 
 
 <p align="center">
@@ -37,17 +59,6 @@ I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmuletahunde&layout=compact&theme=dracula" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanmuletahunde&theme=dracula" alt="GitHub Streak" />
 </p>
-###
-const natanTechStack = {
-  frontend: ['React', 'Next.js', 'Flutter', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'MongoDB'],
-  mobile: ['Flutter'],
-  design: ['Figma'],
-  ml: ['TensorFlow', 'Scikit-learn', 'NumPy', 'Pandas'],
-  tools: ['Git', 'Docker', 'REST APIs', 'VS Code'],
-};
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
