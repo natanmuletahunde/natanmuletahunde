@@ -1,102 +1,39 @@
-Hey, I'm Natan Muleta! 🚀
-Hi there! I'm a Software Engineering student from Adama, Ethiopia, studying at Adama Science and Technology University (ASTU). I'm passionate about crafting innovative web and mobile applications with MERN, Flutter, and Next.js, while diving into the exciting world of Machine Learning. My mission is to blend creativity with code to build user-focused, impactful solutions that make a difference.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-  
+###
 
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
+###
 
-🌟 About Me
+<h2 align="left">About me</h2>
 
-🌍 Proudly based in Adama, Ethiopia
-💻 Building projects with MERN, Flutter, and exploring Next.js
-🤖 Learning Machine Learning with tools like TensorFlow and Scikit-learn
-🎨 Designing sleek interfaces with Figma
-⚡ Fun fact: I love experimenting with app animations and sipping Ethiopian coffee ☕
-🌱 Current goal: Create AI-powered apps that solve real-world problems
+###
 
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-🛠️ Tech Stack
-const natanTechStack = {
-  frontend: ['React', 'Next.js', 'Flutter', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'MongoDB'],
-  mobile: ['Flutter'],
-  design: ['Figma'],
-  ml: ['TensorFlow', 'Scikit-learn', 'NumPy', 'Pandas'],
-  tools: ['Git', 'Docker', 'REST APIs', 'VS Code'],
-};
+###
 
+<h2 align="left">I code with</h2>
 
-  
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-
-💡 Core Competencies
-
-Full-Stack Development: Building scalable web apps with MERN and Next.js
-Mobile Development: Creating cross-platform apps with Flutter
-UI/UX Design: Prototyping intuitive interfaces using Figma
-Machine Learning: Exploring predictive models and data-driven solutions with TensorFlow and Scikit-learn
-Open-Source: Passionate about contributing to and learning from the community
-
-
-🎓 Education & Certifications
-
-Bachelor of Software EngineeringAdama Science and Technology University (ASTU), EthiopiaExpected Graduation: 2026
-
-Certifications  
-
-[Add certifications, e.g., Coursera Machine Learning, freeCodeCamp, etc., if applicable]  
-[Update with any relevant certifications you’ve earned]
-
-
-
-
-🏗️ Featured Projects
-
-MERN E-Commerce PlatformA full-stack e-commerce app built with MongoDB, Express, React, and Node.js, featuring user authentication and payment integration.🔗 View Repository | 🌐 Live Demo
-
-Flutter Alphabet Learning AppAn interactive mobile app for kids to learn the alphabet with animations, built with Flutter.🔗 View Repository | 🌐 Live Demo
-
-AI-Powered ChatbotA chatbot built with Next.js and TensorFlow.js, leveraging ML for natural language processing.🔗 View Repository | 🌐 Live Demo
-
-
-Links to repositories and live demos can be added once projects are hosted.
-
-📊 GitHub Stats
-
-  
-  
-
-
-
-  
-
-
-
-🎯 Current Focus
-
-Building AI-driven applications with Next.js and TensorFlow
-Contributing to open-source Flutter and MERN projects
-Mastering Machine Learning algorithms for real-world use cases
-Designing user-centric interfaces with Figma
-Sharing knowledge through tutorials and community engagement
-
-
-🌐 Connect with Me
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
-
-
-🤝 Let's Build Something Epic!
-I'm excited to collaborate on open-source projects, work on AI-driven apps, or discuss the latest in web and mobile development. Reach out via LinkedIn or email to connect!
-
-  
+###
