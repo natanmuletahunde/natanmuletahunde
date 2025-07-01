@@ -24,12 +24,12 @@ I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia
 
 ###
 
-<h3 align="left">About Me
+<h3 align="left">About Me</h3>
 
 ✨ Creating bugs since 2022 (and squashing them too!)
 📚 Currently learning: Advanced Next.js, Machine Learning with TensorFlow, and Flutter animations
 🎯 Goals: Build AI-powered apps, contribute to open-source, and design intuitive interfaces
-🎲 Fun fact: I sketch app designs in Figma while sipping Ethiopian coffee ☕</h3>
+🎲 Fun fact: I sketch app designs in Figma while sipping Ethiopian coffee ☕
 
 
 <p align="center">
