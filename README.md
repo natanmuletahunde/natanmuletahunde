@@ -16,59 +16,30 @@
   </a>
 </div>
 
-###
-
-
-
-###
+---
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-I'm Natan Muleta, a passionate Software Engineering student from Adama, Ethiopia, studying at Adama Science and Technology University (ASTU). I love building innovative web and mobile apps with MERN, Flutter, and Next.js, while exploring the exciting world of Machine Learning. My goal is to create impactful, user-focused solutions that blend creativity and technology
+I'm **Natan Muleta**, a passionate **Software Engineering student** from **Adama, Ethiopia**, studying at **Adama Science and Technology University (ASTU)**.  
+I love building innovative **web and mobile apps** with **MERN, Flutter, and Next.js**, while exploring the exciting world of **Machine Learning**.  
+My goal is to create impactful, user-focused solutions that blend **creativity and technology**.
 
-###
-About Me
+---
 
+### 🚀 About Me
 
+- 🔭 I'm working as a student developer, building projects with **MERN and Flutter**  
+- 📚 I'm currently learning **Machine Learning with TensorFlow** and **advanced Next.js**  
+- ⚡ In my free time, I hit the **gym** 🏋️‍♂️ and sketch app designs in **Figma** 🎨  
+- ✨ Creating bugs since **2022** (and squashing them too!) 🐛  
+- 🎯 Goals: Build **AI-powered apps**, contribute to **open-source**, and design **intuitive interfaces**  
+- 🎲 Fun fact: I design sleek UIs while sipping **Ethiopian coffee** ☕  
 
+---
 
+### 🛠️ Languages & Tools
 
-🔭 I'm working as a student developer, building projects with MERN and Flutter
-
-
-
-📚 I'm currently learning Machine Learning with TensorFlow and advanced Next.js
-
-
-
-⚡ In my free time, I hit the gym to stay fit and sketch app designs in Figma
-
-
-
-✨ Creating bugs since 2022 (and squashing them too!)
-
-
-
-🎯 Goals: Build AI-powered apps, contribute to open-source, and design intuitive interfaces
-
-
-
-🎲 Fun fact: I design sleek UIs while sipping Ethiopian coffee ☕
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanmuletahunde&show_icons=true&theme=dracula" alt="Natan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmuletahunde&layout=compact&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanmuletahunde&theme=dracula" alt="GitHub Streak" />
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
@@ -97,3 +68,5 @@ About Me
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
+
+---
